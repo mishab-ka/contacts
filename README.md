@@ -20,4 +20,4 @@ check this now 👉 [Contacts](https://todoappy.netlify.app).
 
 
 
-# `we can read, create, delete todos`
+# `we can create, update, read, delete contacts`
