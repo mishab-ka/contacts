@@ -3,10 +3,10 @@
 
 
 This is a contacts sharing webapp you can perform the CURD oparetions with firebase database 
-check this now 👉 [Contacts](https://todoappy.netlify.app).
+check this now 👉 [Contacts](https://contactsv1.netlify.app/).
 ## Available Live Now
 
-### Click Here [Contacts](https://todoappy.netlify.app)
+### Click Here [Contacts](https://contactsv1.netlify.app/)
 
 ## Preview Photos
 ![alt text](https://firebasestorage.googleapis.com/v0/b/contacs-a7fe1.appspot.com/o/Screenshot%20(16).png?alt=media&token=0a6ac380-875d-4f58-b817-e6ad6b304401)
